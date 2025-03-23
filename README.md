@@ -35,6 +35,8 @@ Best performing model for each time window is stored in pickle file for using it
 4. Test File and Prediction Generation
 The Test_Model_MEX.ipynb file contains test telemetry data used for generating predictions. When executed, it applies the saved models from the model_pickle directory to produce a prediction_output.csv file. This output file contains the predicted power consumption values at 15-minute intervals, enabling further evaluation and analysis of the satellite's performance.  
 
+5. Final Output Visualization
+   ![Final Output](final_output.png)
 
 
 
