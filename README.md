@@ -1,12 +1,12 @@
 # Mars Express Orbiter Power Consumption Prediction
-# Introduction
+## Introduction
 This repository contains the code and methodology for predicting power consumption and detecting behavior in the Mars Express Orbiter's telemetry data. The project explores different machine learning approaches to accurately model the power consumption of the satellite, using various features from satellite telemetry data, including solar aspect angles, subsystem commands, and other operational data.
 
-# Architechture diagram
+## Architechture diagram
+![Architecture Diagram](images/architecture_diagram.png "Architecture Diagram")
 
 
-
-# Methodology
+## Methodology
 
 1. Preprocessing and Feature Engineering
 The preprocessing.pynb notebook outlines the following steps:
