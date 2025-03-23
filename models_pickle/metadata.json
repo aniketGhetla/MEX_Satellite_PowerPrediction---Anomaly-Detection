@@ -1,0 +1,163 @@
+[
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_2.pkl",
+        "start_time": "2008-08-22 00:00:00",
+        "end_time": "2008-08-22 19:00:00",
+        "rmse": 0.019597816945763
+    },
+    {
+        "model_name": "CatBoost",
+        "file_path": "models_pickle\\model_CatBoost_window_3.pkl",
+        "start_time": "2008-08-22 18:00:00",
+        "end_time": "2008-08-23 01:00:00",
+        "rmse": 0.02418424768404387
+    },
+    {
+        "model_name": "XGBoost",
+        "file_path": "models_pickle\\model_XGBoost_window_4.pkl",
+        "start_time": "2008-08-23 00:00:00",
+        "end_time": "2008-08-23 07:00:00",
+        "rmse": 0.027345695750688608
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_5.pkl",
+        "start_time": "2008-08-23 06:00:00",
+        "end_time": "2008-08-23 19:00:00",
+        "rmse": 0.05527592522536015
+    },
+    {
+        "model_name": "CatBoost",
+        "file_path": "models_pickle\\model_CatBoost_window_6.pkl",
+        "start_time": "2008-08-23 18:00:00",
+        "end_time": "2008-08-24 01:00:00",
+        "rmse": 0.05742510029227455
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_7.pkl",
+        "start_time": "2008-08-24 00:00:00",
+        "end_time": "2008-08-24 07:00:00",
+        "rmse": 0.09056647206505512
+    },
+    {
+        "model_name": "CatBoost",
+        "file_path": "models_pickle\\model_CatBoost_window_8.pkl",
+        "start_time": "2008-08-24 06:00:00",
+        "end_time": "2008-08-24 13:00:00",
+        "rmse": 0.03376348493288814
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_9.pkl",
+        "start_time": "2008-08-24 12:00:00",
+        "end_time": "2008-08-25 01:00:00",
+        "rmse": 0.0124317363050257
+    },
+    {
+        "model_name": "XGBoost",
+        "file_path": "models_pickle\\model_XGBoost_window_10.pkl",
+        "start_time": "2008-08-25 00:00:00",
+        "end_time": "2008-08-25 07:00:00",
+        "rmse": 0.02151179084728158
+    },
+    {
+        "model_name": "CatBoost",
+        "file_path": "models_pickle\\model_CatBoost_window_11.pkl",
+        "start_time": "2008-08-25 06:00:00",
+        "end_time": "2008-08-25 19:00:00",
+        "rmse": 0.023755114481905284
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_12.pkl",
+        "start_time": "2008-08-25 18:00:00",
+        "end_time": "2008-08-26 01:00:00",
+        "rmse": 0.04642455518185515
+    },
+    {
+        "model_name": "CatBoost",
+        "file_path": "models_pickle\\model_CatBoost_window_13.pkl",
+        "start_time": "2008-08-26 00:00:00",
+        "end_time": "2008-08-26 07:00:00",
+        "rmse": 0.016183374909268074
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_14.pkl",
+        "start_time": "2008-08-26 06:00:00",
+        "end_time": "2008-08-26 13:00:00",
+        "rmse": 0.06300112379719705
+    },
+    {
+        "model_name": "CatBoost",
+        "file_path": "models_pickle\\model_CatBoost_window_15.pkl",
+        "start_time": "2008-08-26 12:00:00",
+        "end_time": "2008-08-26 19:00:00",
+        "rmse": 0.02950656878095075
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_16.pkl",
+        "start_time": "2008-08-26 18:00:00",
+        "end_time": "2008-08-27 01:00:00",
+        "rmse": 0.038021998595577984
+    },
+    {
+        "model_name": "CatBoost",
+        "file_path": "models_pickle\\model_CatBoost_window_17.pkl",
+        "start_time": "2008-08-27 00:00:00",
+        "end_time": "2008-08-27 19:00:00",
+        "rmse": 0.04505902577287307
+    },
+    {
+        "model_name": "XGBoost",
+        "file_path": "models_pickle\\model_XGBoost_window_18.pkl",
+        "start_time": "2008-08-27 18:00:00",
+        "end_time": "2008-08-28 01:00:00",
+        "rmse": 0.04692023722746761
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_19.pkl",
+        "start_time": "2008-08-28 00:00:00",
+        "end_time": "2008-08-28 13:00:00",
+        "rmse": 0.03270621688141702
+    },
+    {
+        "model_name": "XGBoost",
+        "file_path": "models_pickle\\model_XGBoost_window_20.pkl",
+        "start_time": "2008-08-28 12:00:00",
+        "end_time": "2008-08-29 13:00:00",
+        "rmse": 0.017396401803031
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_21.pkl",
+        "start_time": "2008-08-29 12:00:00",
+        "end_time": "2008-08-30 01:00:00",
+        "rmse": 0.06401928888367123
+    },
+    {
+        "model_name": "CatBoost",
+        "file_path": "models_pickle\\model_CatBoost_window_22.pkl",
+        "start_time": "2008-08-30 00:00:00",
+        "end_time": "2008-08-30 07:00:00",
+        "rmse": 0.04388531638584881
+    },
+    {
+        "model_name": "XGBoost",
+        "file_path": "models_pickle\\model_XGBoost_window_23.pkl",
+        "start_time": "2008-08-30 06:00:00",
+        "end_time": "2008-08-30 13:00:00",
+        "rmse": 0.02826820794427885
+    },
+    {
+        "model_name": "RandomForest",
+        "file_path": "models_pickle\\model_RandomForest_window_24.pkl",
+        "start_time": "2008-08-30 12:00:00",
+        "end_time": "2008-08-30 19:00:00",
+        "rmse": 0.02826820794427885
+    }
+]
